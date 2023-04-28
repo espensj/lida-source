@@ -16,7 +16,7 @@
 ##
 "Olá, eu sou o Kama."
 
-"Prazer em conhecer, Kama."
+"Prazer em conhecê-lo, Kama."
 
 ##
 O telefone está a tocar.
@@ -40,7 +40,7 @@ Ele desliga.
 "Desculpe."
 
 ##
-"Não tem problema."
+"Não há problema."
 
 ##
 "Desculpe, por favor."

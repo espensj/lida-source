@@ -31,12 +31,12 @@
 ##
 "Pode ajudar-me, por favor?"
 
-"Sim, é claro!"
+"Sim, claro!"
 
 ##
 "Pode dar-me aquilo, por favor?"
 
-"Sim, é claro!"
+"Sim, claro!"
 
 ##
 "Obrigado!"
